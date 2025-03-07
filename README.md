@@ -1,11 +1,11 @@
 # This is me
 
-<div align="center">
+<p align="center">
+  
+![Dino.gifs](Social_dino-with-hat.gif)
 
-<img src="Social_dino-with-hat.gif" alt="Dino.gifs">
+</p>
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abnermasong&show_icons=true&theme=transparent)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abnermasong&show_icons=true&theme=dark)
-
-![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abnermasong&layout=compact&theme=dark)
+![GitHub Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abnermasong&layout=compact&theme=transparent)
